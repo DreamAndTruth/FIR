@@ -1,3 +1,8 @@
 *.png
 *.DREAM
 *.pyc
+*.xml
+*.npz
+.idea/
+row_fir
+row_fir
